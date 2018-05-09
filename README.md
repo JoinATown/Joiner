@@ -5,7 +5,7 @@
 
 ### Why we should do this ?
 
-Non-bankarised people of South-America is close to 78 millions people. 65 % population doesn’t have access to financial services. We believe that in order to solve this problem is necessary to tackle the challenges faced on by the community. Making financial more inclusive. Actually, most of the communities doesn’t trust on financial institutions, some of them fare banks. From the customer perspective, transparency and trust is essential. Even more, they choose by their own initiative to no get involved with financial institutions and use informal services. 
+Non-banked people of South-America is close to 78 millions people. 65 % population doesn’t have access to financial services. We believe that in order to solve this problem is necessary to tackle the challenges faced on by the community. Making financial more inclusive. Actually, most of the communities doesn’t trust on financial institutions, some of them fare banks. From the customer perspective, transparency and trust is essential. Even more, they choose by their own initiative to no get involved with financial institutions and use informal services. 
 
 ### How we can solve this ?
 
