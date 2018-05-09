@@ -47,7 +47,7 @@ Secure system to store payment informations and password users designed to hold 
 Empowering trusted community advisors with blockchain technology by creating their own currency will enhance local economy. Each citizen contribute in front of their community supporting local initiatives initiatives and businesses. 
 
 ## What Do We Do ? 
-We look forward to meet organizations and entrepreneurs willing to impact positively people’s lives. Do you want to contribute to development of emerging countries please fill [this form!](https://docs.google.com/forms/d/14BksJ9rWG1mbEuNVzb34kgVR_q2a14nOsL50HbkhvLg/edit) We will :smile: to chat with you.  
+We look forward to meet organizations and entrepreneurs willing to impact positively people’s lives. Do you want to contribute to development of emerging countries please fill [this form!](https://docs.google.com/forms/d/14BksJ9rWG1mbEuNVzb34kgVR_q2a14nOsL50HbkhvLg/prefill) We will :smile: to chat with you.  
 
 
 
