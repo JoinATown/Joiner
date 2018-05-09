@@ -1,3 +1,6 @@
+![](https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/28377455_399195513858304_3539942260501272730_n.jpg?_nc_cat=0&oh=dfe39120237179f6dfa8d396984cbd0e&oe=5B9A0B1E)
+
+
 # Tech for Town
 
 ### Why we should do this ?
@@ -6,13 +9,14 @@ Non-bankarised people of South-America is close to 78 millions people. 65 % popu
 
 ### How we can solve this ?
 
-Join A Town work closely with ONG, Social Entrepreneurs or associations on emerging markets. We want to empower them with technology to make financial services accessible to the communities from the people they trust. Through the existing network, we can build new solutions allowing easy access to a digital identity, secure wallet, make deposits, payments and micro-loans. In that way we want to bring back trust into financial services to the communities.
+[Join A Town](http://joinatown.org/) work closely with ONG, Social Entrepreneurs or associations on emerging markets. We want to empower them with technology to make financial services accessible to the communities from the people they trust. Through the existing network, we can build new solutions allowing easy access to a digital identity, secure wallet, make deposits, payments and micro-loans. In that way we want to bring back trust into financial services to the communities.
 
 ### How we will build ? 
 
 Join A Town has developed an entrepreneurial methodology for emerging countries. These countries looks very different than hubs like Station F, so how we want to design, launch and support products needs to look different. We need to combine powerful solutions for the emerging countries with teams that have the ability and hunger to solve global goals. 
 
 We want to identify unmet needs within the communities, and develop through early test and iterations new financial solutions communities love, backed by sustainable business model and open-sources technologies. We are a non-profit organization and all the work will shared with the world without any fee.  
+
 
 ## Desired Features
 
@@ -27,7 +31,8 @@ Communities with digital identity become part of the Join A Town ecosystem. Each
 ### For Donators-Partners
 Our partners provision digital identity using the platform and make digital deliveries to intended recipients. Underpinned by Blockchain technology, the platform provides our partners with seamless, transparent and traceable services - providing a scope for evaluation and monitoring whilst also enforcing accountability. 
 
-## USE CASES
+
+## Use Cases
 
 ### 1. Lower the cost of remittances
 Send money to emerging countries quickly, for a fraction of cent. Facilitate exchange between currencies. 
