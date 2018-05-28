@@ -50,7 +50,16 @@ Secure system to store payment informations and password users designed to hold 
 Empowering trusted community advisors with blockchain technology by creating their own exchange network will enhance local economy. We can reach the community with low-cost accounts, loans, and microsavings.
 
 ## What Do We Do ? 
-We look forward to meet organizations and entrepreneurs willing to impact positively people’s lives. Do you want to contribute to development of emerging countries please fill [this form!](https://docs.google.com/forms/d/14BksJ9rWG1mbEuNVzb34kgVR_q2a14nOsL50HbkhvLg/prefill) We will :smile: to chat with you. 
+
+We look forward to meet organizations and entrepreneurs willing to impact positively people’s lives. Do you want to contribute to development of emerging countries please fill [this form!](https://goo.gl/forms/3lUhXy5RgswhwpUc2) We will :smile: to chat with you.  
+
+## Do you want to donate ? 
+Wallet | Adress
+------------ | -------------
+BTC | 3MJiaTUoy5t4kKsLq91Vo6BdHzKhbNLfdS
+ETH | 0x106A60F5838C6Ae7ADf9C1F6a72213c2Ce66D507
+LTC | M9Fua9rX1C7QcwBgsz1hU4StFquc3j8XYs
+
 
 
 
