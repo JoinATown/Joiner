@@ -49,7 +49,7 @@ Empowering trusted community advisors with blockchain technology by creating the
 ## What Do We Do ? 
 We look forward to meet organizations and entrepreneurs willing to impact positively people’s lives. Do you want to contribute to development of emerging countries please fill [this form!](https://goo.gl/forms/3lUhXy5RgswhwpUc2) We will :smile: to chat with you.  
 
-# Do you want to donate ? 
+## Do you want to donate ? 
 Wallet | Adress
 ------------ | -------------
 BTC | 3MJiaTUoy5t4kKsLq91Vo6BdHzKhbNLfdS
